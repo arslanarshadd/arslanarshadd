@@ -1,4 +1,4 @@
-I carry 6+ years of quality experience in designing and developing mobile games and apps for iOS, Android, and Desktop:
+I carry 7+ years of quality experience in designing and developing mobile games and apps for iOS, Android, and Desktop:
 
 - Unity 3D Development
 - Native Android Development
