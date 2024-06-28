@@ -1,9 +1,9 @@
-I carry 7+ years of quality experience in designing and developing mobile games and apps for iOS, Android, and Desktop:
+I have 8 years of quality experience in designing and developing mobile games and apps for iOS, Android, and Desktop:
 
 - Unity 3D Development
 - Native Android Development
 
-I have an excellent expertise with 3D games and have publishing skills in mobile apps & games, and vast experience in getting your app approved with google and apple play store.
+I have excellent expertise with 3D games and have publishing skills in mobile apps & games, and vast experience in getting your app approved with Google and AppStore.
 
 Following are the different categories of games and apps I have developed:
 
@@ -26,11 +26,11 @@ Furthermore, I have some additional skills as well
 
 Approach toward work:
 
-1. Understanding and developing the project as per the client's requirement within a given deadline.
+1. Understanding and developing the project as per the client's requirements within a given deadline.
 
 2. Writing a well-documented code that is easy to understand and maintain in the future.
 
-3. Meetings deadlines effectively.
+3. Meeting deadlines effectively.
 
 Provide me with an opportunity to demonstrate how mobile games and apps can transform your business!
 
